@@ -19,8 +19,8 @@ page = 1
 running_count = 0
 $fetched_avatars = Set.new
 
-username = 'YOUR_BK_USERNAME'
-password = 'YOUR_BK_PASSWORD'
+username = 'matthurst'
+password = 'dog392'
 
 Dir.mkdir("bk_images") rescue puts "bk_images already exists, we'll use that"
 Dir.mkdir("bk_avatars") rescue puts "bk_avatars already exists, we'll use that"
